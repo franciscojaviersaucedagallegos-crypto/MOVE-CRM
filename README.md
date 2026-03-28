@@ -2,10 +2,6 @@
 
 CRM comercial para el equipo de ventas de MOVE Ingeniería Contra Incendios.
 
-## 🌐 Abrir la app
-
-**[→ Abrir MOVE CRM](https://franciscojaviersaucedagallegos-crypto.github.io/MOVE-CRM/)**
-
 ## 📱 Instalar en iPhone
 
 1. Abre el link de arriba en **Safari**
